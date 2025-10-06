@@ -3508,7 +3508,7 @@ function createWinbox() {
   setFontBorder();
   if (localStorage.getItem("snow") == "block") {
     document.getElementById("snowSet").checked = true;
-  } else if (localStorage.getItem("snow") == "none") {
+  } else if (localStorage.getItem("snow") == "block") {
     document.getElementById("snowSet").checked = false;
   }
 }
