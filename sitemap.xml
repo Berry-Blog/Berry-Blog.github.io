@@ -4,7 +4,7 @@
   <url>
     <loc>https://blog.980812861.xyz/posts/9daba997.html</loc>
     
-    <lastmod>2025-10-04</lastmod>
+    <lastmod>2025-10-23</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -56,25 +56,16 @@
   </url>
   
   <url>
-    <loc>https://blog.980812861.xyz/life/games/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.980812861.xyz/life/movies/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.980812861.xyz/life/music/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.980812861.xyz/life/games/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -101,7 +92,34 @@
   </url>
   
   <url>
+    <loc>https://blog.980812861.xyz/social/fcircle/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.980812861.xyz/life/movies/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.980812861.xyz/personal/love/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.980812861.xyz/site/time/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -119,25 +137,7 @@
   </url>
   
   <url>
-    <loc>https://blog.980812861.xyz/social/fcircle/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.980812861.xyz/social/link/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.980812861.xyz/site/time/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -187,6 +187,13 @@
   </url>
   
 
+  
+  <url>
+    <loc>https://blog.980812861.xyz/categories/%E5%A4%87%E4%BB%BD/</loc>
+    <lastmod>2025-10-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
   <url>
     <loc>https://blog.980812861.xyz/categories/%E6%BC%94%E7%A4%BA/</loc>
